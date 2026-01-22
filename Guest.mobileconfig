@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>DisableAssociationMACRandomization</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>WPA</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>HimeAnyoji</string>
+			<key>PayloadDescription</key>
+			<string>Wi-Fi設定を構成します</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.2C7152A2-44CD-4C01-847C-6B8B822FA012</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>2C7152A2-44CD-4C01-847C-6B8B822FA012</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>Hasunosora-Roaming-WLAN</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Guest</string>
+	<key>PayloadIdentifier</key>
+	<string>Taylor.49977B57-FD35-41ED-BF0A-C9FBE6729649</string>
+	<key>PayloadOrganization</key>
+	<string>Hasunosora-HS</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>1EA0DDF3-75AC-4A97-BC52-9803A8D8ED05</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
